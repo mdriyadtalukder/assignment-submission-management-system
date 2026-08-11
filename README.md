@@ -185,18 +185,18 @@ Students can:
 
 ## Backend
 
-ASP.NET Core Web API (.NET 10)
-C#
-MongoDB.Driver 3.10.0
-JWT Bearer Authentication
-BCrypt.Net-Next 4.2.0
-Swagger / OpenAPI
-DotNetEnv 3.2.0
+- **ASP.NET Core Web API (.NET 10)**
+- **C#**
+- **MongoDB.Driver 3.10.0**
+- **JWT Bearer Authentication**
+- **BCrypt.Net-Next 4.2.0**
+- **Swagger / OpenAPI**
+- **DotNetEnv 3.2.0**
 
 ## Frontend
 
-Next.js 15.5.0
-React 19.1.0
-TypeScript 5.7.2
-Tailwind CSS 3.4.17
-Lucide React 0.468.0
+- **Next.js 15.5.0**
+- **React 19.1.0**
+- **TypeScript 5.7.2**
+- **Tailwind CSS 3.4.17**
+- **Lucide React 0.468.0**
