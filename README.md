@@ -181,6 +181,27 @@ Students can:
 
 - **MongoDB**
 
+# Project Clone & Setup
+
+## Clone and Run
+
+```bash
+# Clone the project
+git clone https://github.com/mdriyadtalukder/assignment-submission-management-system.git
+
+# Go to project
+cd assignment-submission-management-system
+
+# Backend
+cd "backend(asp-net core web api+mongodb)/ASMS.Api"
+dotnet restore
+dotnet run
+
+# Open another terminal for frontend
+cd "assignment-submission-management-system/frontend(nextjs+ts+tailwind)"
+npm install
+npm run dev
+
 # 🛠️ Technology version
 
 ## Backend
@@ -200,3 +221,4 @@ Students can:
 - **TypeScript 5.7.2**
 - **Tailwind CSS 3.4.17**
 - **Lucide React 0.468.0**
+```

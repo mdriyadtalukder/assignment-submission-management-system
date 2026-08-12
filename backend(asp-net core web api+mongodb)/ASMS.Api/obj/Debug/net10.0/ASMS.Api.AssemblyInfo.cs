@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASMS.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e56721ff1766346a2e26dcbb580af324a5cfc48")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASMS.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASMS.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
